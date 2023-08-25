@@ -11,4 +11,4 @@ python:
 
 
 sphinx:
-  fail_on_Warning: true
+  fail_on_warning: true
